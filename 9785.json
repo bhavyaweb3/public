@@ -1,0 +1,86 @@
+{
+  "name": "Vandal #9785",
+  "symbol": "VC",
+  "description": "Vandal City is a lifestyle brand and blockchain gaming project founded by a talented team of blockchain engineers, artists, and web3 enthusiasts fostering community, utility, and art.",
+  "seller_fee_basis_points": 777,
+  "image": "https://github.com/bhavyaweb3/public/9785.png",
+  "external_url": "",
+  "edition": 9785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Black Techware"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Magma"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tone II"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Gray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Base I"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz Blue"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Carnival Red"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Lumber Axe"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Hand Wraps Black"
+    },
+    {
+      "trait_type": "Rings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Wristwear",
+      "value": "Cyber Watch"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/bhavyaweb3/public/9785.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5bNF7aWAuJdwRaqNUruDUvgTZ2UYFQbtGRRmnmNVHari",
+        "share": 100
+      }
+    ]
+  }
+}
