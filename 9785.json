@@ -3,7 +3,7 @@
   "symbol": "VC",
   "description": "Vandal City is a lifestyle brand and blockchain gaming project founded by a talented team of blockchain engineers, artists, and web3 enthusiasts fostering community, utility, and art.",
   "seller_fee_basis_points": 777,
-  "image": "https://github.com/bhavyaweb3/public/9785.png",
+  "image": "https://bhavyaweb3.github.io/public/9785.png",
   "external_url": "",
   "edition": 9785,
   "attributes": [
@@ -71,7 +71,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/bhavyaweb3/public/9785.png",
+        "uri": "https://bhavyaweb3.github.io/public/9785.png",
         "type": "image/png"
       }
     ],
